@@ -1,0 +1,213 @@
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.csprojAssemblyReference.cache
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\Rubik.exe.config
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\Rubik.exe
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\Rubik.pdb
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\OpenTK.dll
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\OpenTK.GLControl.dll
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\OpenTK.pdb
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\OpenTK.xml
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\OpenTK.GLControl.pdb
+E:\MyCode\211\DALV\Rubik\Rubik\bin\Debug\OpenTK.GLControl.xml
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.exe
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.pdb
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.Home.resources
+E:\MyCode\211\DALV\Rubik\Rubik\obj\Debug\Rubik.Practice.resources
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.csprojAssemblyReference.cache
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.Home.resources
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.Practice.resources
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.exe
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.pdb
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\Rubik.exe.config
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\Rubik.exe
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\Rubik.pdb
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\OpenTK.dll
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\OpenTK.GLControl.dll
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\OpenTK.pdb
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\OpenTK.xml
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\OpenTK.GLControl.pdb
+E:\MyCode\211\DCLV\Rubik\Rubik\bin\Debug\OpenTK.GLControl.xml
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.Time.resources
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.Learn.resources
+E:\MyCode\211\DCLV\Rubik\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\OpenTK.dll
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\OpenTK.xml
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Tao.OpenGl.dll
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.csproj.AssemblyReference.cache
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\obj\Debug\Rubik.RubikCubeForm.resources
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\phatn\OneDrive\Desktop\DCLV-main\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\OpenTK.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Tao.OpenGl.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\OpenTK.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.csproj.AssemblyReference.cache
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.RubikCubeForm.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\LVTN\Rubik\obj\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.csproj.AssemblyReference.cache
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\OpenTK.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Tao.OpenGl.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\OpenTK.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.RubikCubeForm.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\OpenTK.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Tao.OpenGl.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\OpenTK.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.csproj.AssemblyReference.cache
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\obj\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Rubik.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\OpenTK.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Tao.OpenGl.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\OpenTK.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.csproj.AssemblyReference.cache
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.exe
+C:\Users\phatn\OneDrive\Desktop\assignment1\LVTN1\Rubik\obj\Debug\Rubik.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\Rubik.exe
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\Rubik.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\OpenTK.dll
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\OpenTK.xml
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.csprojAssemblyReference.cache
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.exe
+C:\Users\ADMINS\Downloads\LVTN1 (1)\LVTN1\Rubik\obj\Debug\Rubik.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\Rubik.exe
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\Rubik.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\OpenTK.dll
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\OpenTK.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\OpenTK.xml
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\Tao.OpenGl.xml
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.csprojAssemblyReference.cache
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.Home.resources
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.Learn.resources
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.Practice.resources
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.Solve.resources
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.Time.resources
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.csproj.CopyComplete
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.exe
+C:\Users\ADMINS\Downloads\LVTN1 (4)\LVTN1\Rubik\obj\Debug\Rubik.pdb

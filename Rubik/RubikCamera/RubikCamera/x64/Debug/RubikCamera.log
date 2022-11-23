@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(173,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(196,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(309,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(311,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(395,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(396,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(479,98): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(479,89): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(506,98): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\RubikCamera\Source.cpp(506,89): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+     Creating library C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\x64\Debug\RubikCamera.lib and object C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\x64\Debug\RubikCamera.exp
+  RubikCamera.vcxproj -> C:\Users\phatn\OneDrive\Desktop\LVTN1\Rubik\RubikCamera\x64\Debug\RubikCamera.dll
